@@ -2,7 +2,7 @@
 node_modules
 
 # Buld
-css
+#css
 
 # Dev files
 app/css/normalize.css
