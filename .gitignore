@@ -8,8 +8,6 @@ css
 app/css/normalize.css
 app/js/jquery.jcarousel.min.js
 app/js/jquery.min.js
+psd/icons.psd
 
 .DS_Store
-
-# Mockups
-psd
